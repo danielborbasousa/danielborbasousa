@@ -51,12 +51,22 @@
 
 ---
 
-## 🌎 Conecte-se comigo
+## 📬 Vamos conversar sobre tecnologia?
+
+Estou aberto a oportunidades, networking e projetos desafiadores.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/daniel-de-borba-a9497728b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tsox555@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://danielborbasousa.infinityfree.me/">
+<img src="https://img.shields.io/badge/Portfolio-View-9d10af?style=for-the-badge"/>
 </a>
 
 </div>
@@ -70,6 +80,7 @@
 </p>
 
 ---
+
 
 <p align="center">
 🔥 Transformando ideias em código.
