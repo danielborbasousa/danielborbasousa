@@ -85,7 +85,8 @@ Estou aberto a oportunidades, networking e projetos desafiadores.
 <img src="https://komarev.com/ghpvc/?username=danielborbasousa&color=blueviolet&style=for-the-badge"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 
 <p align="center">
