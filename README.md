@@ -1,16 +1,83 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:9d10af&height=200&section=header&text=Daniel%20Borba%20Sousa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<!--
-**danielborbasousa/danielborbasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Desenvolvedor Web em formação</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🚀 Focado em Front-End & Sistemas Web <br>
+🎯 Buscando minha primeira oportunidade como Desenvolvedor
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Desenvolvimento
+- 🛠 Experiência com sistemas web completos
+- 🔐 Desenvolvimento com autenticação e dashboards
+- 📚 Sempre evoluindo minhas habilidades
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,sqlite,git,github,bootstrap,tailwind" />
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **FinanceUp** — Sistema gestor financeiro com dashboard interativo  
+🔹 **Phoenix Forum** — Fórum com login, chat e sistema administrativo  
+🔹 **Pizzaria Laravel** — Sistema web estruturado em MVC  
+🔹 **Sistema Login SQLite** — Autenticação completa com validações  
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielborbasousa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielborbasousa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/danielborbasousa/danielborbasousa/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/daniel-de-borba-a9497728b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👁️ Visitas
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=danielborbasousa&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+🔥 Transformando ideias em código.
+</p>
+
