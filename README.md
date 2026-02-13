@@ -7,7 +7,7 @@
 🎯 IT Apprentice na Escola da Vila - 2025.
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
 
 ## 🚀 Sobre mim
 
@@ -16,7 +16,8 @@
 - 🔐 Desenvolvimento com autenticação e dashboards
 - 📚 Atualmente focado na parte de IA.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 ## 🛠️ Tecnologias
 
@@ -24,7 +25,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,sqlite,git,github,bootstrap,tailwind" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 ## 📌 Projetos em Destaque
 
@@ -33,13 +35,15 @@
 🔹 **SoraBOT** — Bot de Discord.  
 🔹 **ArvoreGen** — Sistema de Árvore Genealógica. 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 ## 📊 Estatísticas
 
 <img src="https://streak-stats.demolab.com?user=danielborbasousa&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielborbasousa&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 ## 🐍 Contribuições
 
@@ -49,7 +53,8 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 ## 📬 Vamos conversar sobre tecnologia?
 
@@ -71,7 +76,8 @@ Estou aberto a oportunidades, networking e projetos desafiadores.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
+
 
 ## 👁️ Visitas
 
