@@ -1,20 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:9d10af&height=200&section=header&text=Daniel%20Borba%20Sousa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="center">💻 Desenvolvedor Web em formação</h3>
+<h3 align="center">💻 IT Support | AI Enthusiast</h3>
 
 <p align="center">
-🚀 Focado em Front-End & Sistemas Web <br>
-🎯 Buscando minha primeira oportunidade como Desenvolvedor
+🚀 Você sabia que a tecnologia pode salvar vidas? <br>
+🎯 IT Apprentice na Escola da Vila - 2025.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Desenvolvimento
+- 🎓 Estudante do Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma - Fatec Zona Sul
 - 🛠 Experiência com sistemas web completos
 - 🔐 Desenvolvimento com autenticação e dashboards
-- 📚 Sempre evoluindo minhas habilidades
+- 📚 Atualmente focado na parte de IA.
 
 ---
 
@@ -30,15 +30,14 @@
 
 🔹 **FinanceUp** — Sistema gestor financeiro com dashboard interativo  
 🔹 **Phoenix Forum** — Fórum com login, chat e sistema administrativo  
-🔹 **Pizzaria Laravel** — Sistema web estruturado em MVC  
-🔹 **Sistema Login SQLite** — Autenticação completa com validações  
+🔹 **SoraBOT** — Bot de Discord.  
+🔹 **ArvoreGen** — Sistema de Árvore Genealógica. 
 
 ---
 
 ## 📊 Estatísticas
 
-<img src="https://streak-stats.demolab.com?user=danielborbasousa&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=danielborbasousa&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielborbasousa&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ---
 
