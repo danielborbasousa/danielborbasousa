@@ -4,7 +4,7 @@
 
 <p align="center">
 🚀 Você sabia que a tecnologia pode salvar vidas? <br>
-🎯 IT Apprentice na Escola da Vila - 2025.
+🎯 Estagiário de TI na HydraForce (Rexroth Bosch) - 2026.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=9d10af&height=2"/>
