@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:9d10af&height=200&section=header&text=Daniel%20Borba%20Sousa&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="center">💻 IT Support | AI Enthusiast</h3>
+<h3 align="center">💻 Python Developer | AI Enthusiast</h3>
 
 <p align="center">
 🚀 Você sabia que a tecnologia pode salvar vidas? <br>
